@@ -12,3 +12,4 @@ streamlit-modal
 seaborn
 st-annotated-text
 #pickle
+afinn
