@@ -19,7 +19,7 @@ from annotated_text import annotated_text, annotation
 
 import base64
 import streamlit as st
-import plotly.express as px
+
 
 df = px.data.iris()
 
