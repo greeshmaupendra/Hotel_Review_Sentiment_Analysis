@@ -12,7 +12,8 @@ stopwords_set = set(stopwords.words('english'))
 st.set_option('deprecation.showPyplotGlobalUse', False)
 from annotated_text import annotated_text
 from annotated_text import annotated_text, annotation
-
+import nltk
+nltk.download('stopwords')
 
 
 import base64
